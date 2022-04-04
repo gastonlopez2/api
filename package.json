@@ -1,0 +1,18 @@
+{
+  "name": "multicamiones_api",
+  "version": "1.0.0",
+  "description": "API para conectar Base de Datos Mongo con app mobile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gastón López",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  }
+}
